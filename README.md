@@ -1,0 +1,1 @@
+# webpack-yaml-loader
