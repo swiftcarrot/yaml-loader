@@ -1,7 +1,7 @@
 {
   "name": "webpack-yaml-loader",
   "version": "0.2.0",
-  "description": "",
+  "description": "yaml loader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,17 @@
     "index.js"
   ],
   "author": "Wang Zuo <wzuoadjusted@gmail.com> (https://wangzuo.me/)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "yaml": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzuo/webpack-yaml-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wangzuo/webpack-yaml-loader/issues"
+  },
+  "homepage": "https://github.com/wangzuo/webpack-yaml-loader#readme"
 }
