@@ -1,8 +1,11 @@
 {
-  "name": "webpack-yaml-loader",
+  "name": "@swiftcarrot/yaml-loader",
   "version": "0.2.1",
   "description": "yaml loader",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,10 +20,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangzuo/webpack-yaml-loader.git"
+    "url": "git+https://github.com/swiftcarrot/yaml-loader.git"
   },
   "bugs": {
-    "url": "https://github.com/wangzuo/webpack-yaml-loader/issues"
+    "url": "https://github.com/swiftcarrot/yaml-loader/issues"
   },
-  "homepage": "https://github.com/wangzuo/webpack-yaml-loader#readme"
+  "homepage": "https://github.com/swiftcarrot/yaml-loader#readme"
 }

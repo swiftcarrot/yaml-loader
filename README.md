@@ -1,14 +1,14 @@
-# webpack-yaml-loader
+# @swiftcarrot/yaml-loader
 
 ```sh
-yarn add webpack-yaml-loader --dev
+yarn add @swiftcarrot/yaml-loader --dev
 ```
 
 ```javascript
 rules: [
   {
     test: /\.ya?ml$/,
-    use: 'webpack-yaml-loader'
+    use: '@swiftcarrot/yaml-loader'
   }
 ];
 ```
